@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tigjaw, my name is Joshua, and I'm open for new opportunities.
 - 👀 I’m looking to restart my java programming career after years working in other fields. I have a first class degree in Computer Science, specialising in Java.
-- 🌱 I’m currently learning Spring, Git/Github and web/microservice development.
+- 🌱 I’m currently learning Spring, Git/Github and web/microservice development, having recently completed a Spring Master Class online course.
 <!--- - 💞️ I’m looking to collaborate on --->
 - 📫 How to reach me : woodyatt.joshua@gmail.com
 
