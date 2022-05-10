@@ -81,7 +81,8 @@
 
 </div>
 
-<div id="socials"
+<div id="socials">
+
 </div>
   
 </body>
