@@ -11,6 +11,11 @@
   <body>
 <html>
 
+## Skills
+todo
+
+## Stats
+todo
 <!--- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : woodyatt.joshua@gmail.com --->
 
