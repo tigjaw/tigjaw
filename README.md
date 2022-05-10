@@ -81,6 +81,21 @@
 
 </div>
 
+<br><br>
+  
+<div id="stats" align="center">
+
+  <a href="https://github.com/Tigjaw">
+    <img height="200" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=Tigjaw&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/Tigjaw">
+    <img height="200" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigjaw&layout=compact" />
+  </a>
+
+</div>
+
+<br>
+  
 <div id="socials" align="center">
 
   <h2>connect with me</h2>
@@ -96,6 +111,15 @@
   
 </body>
 </html>
+
+<!---
+themes
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+
+![Tigjaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigjaw&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigjaw&layout=compact)](https://github.com/Tigjaw/github-readme-stats)
+--->
 
 <!--- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : woodyatt.joshua@gmail.com
