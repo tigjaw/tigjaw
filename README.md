@@ -17,7 +17,7 @@
 </ul>
 <ul>
   <li>
-    I’m currently learning Python, Spring, web/microservice development with REST/SOAP, having recently completed a Spring Master Class online course.
+    I’m currently learning Python, Spring, Web/Microservice development with REST/SOAP, having recently completed a Spring master-class online course.
   </li>
 </ul>
 <ul>
