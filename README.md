@@ -31,28 +31,31 @@
 <h2>Tech:</h2>
   
 <a href="https://www.java.com/en/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/java-red?logo=java&logoColor=white" alt="Java Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/Java-red?logo=Java&logoColor=white" alt="Java Badge"/>
 </a>
 <a href="https://spring.io/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/spring-green?logo=spring&logoColor=white" alt="Spring Framework Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/Spring-green?logo=Spring&logoColor=white" alt="Spring Framework Badge"/>
 </a>
 <a href="https://www.python.org/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" alt="Python Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white" alt="Python Badge"/>
 </a>
 <a href="https://www.eclipse.org/ide/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/eclipse-purple?logo=eclipse&logoColor=white" alt="Eclipse Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/Eclipse-purple?logo=Eclipse&logoColor=white" alt="Eclipse Badge"/>
 </a>
   
 <br>
   
 <a href="https://www.php.net/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/php-lavender?logo=php&logoColor=white" alt="PHP Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/PHP-lavender?logo=PHP&logoColor=white" alt="PHP Badge"/>
 </a>
 <a href="https://whatwg.org/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/html5-orange?logo=html5&logoColor=white" alt="HTML Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white" alt="HTML Badge"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+  <img height="25" width="auto" src="https://img.shields.io/badge/CSS-blue?logo=CSS&logoColor=white" alt="CSS Badge"/>
 </a>
 <a href="https://www.javascript.com/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
 </a>
   
 </div>
