@@ -81,7 +81,16 @@
 
 </div>
 
-<div id="socials">
+<div id="socials" align="center">
+
+  <h2>Connect with me</h2>
+
+  <a href="https://www.instagram..com/joshua.w.87">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joshua-woodyatt/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 </div>
   
