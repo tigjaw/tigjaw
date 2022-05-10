@@ -86,10 +86,10 @@
   <h2>connect with me</h2>
 
   <a href="https://www.instagram..com/joshua.w.87">
-    <img height="25" width="auto" src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img height="25" width="auto" src="https://github.com/tigjaw/tigjaw/blob/916c58f77f265009083c526899269bb3f6a63350/images/instagram.png" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-woodyatt/">
-    <img height="25" width="auto" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+    <img height="25" width="auto" src="https://github.com/tigjaw/tigjaw/blob/916c58f77f265009083c526899269bb3f6a63350/images/linkedin.png" alt="LinkedIn Badge"/>
   </a>
 
 </div>
