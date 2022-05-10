@@ -3,9 +3,19 @@
 
 <div id="intro">
 
-  <h1 align="right">
-    Hi, my name is Joshua 👋
-  </h1>
+  <div id="hello" align="right">
+    <h1>
+      Hi, my name is Joshua 👋
+    </h1>
+      <!--
+      <a href="https://www.instagram..com/joshua.w.87">
+        <img height="25" width="auto" src="images/instagram/instagram_square.png" alt="Instagram Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/joshua-woodyatt/">
+        <img height="25" width="auto" src="images/linkedin/linkedin_square_white.png" alt="LinkedIn Badge"/>
+      </a>
+      -->
+  </div>
 
   <ul>
     <li>
