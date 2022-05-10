@@ -52,7 +52,7 @@
   <img height="25" width="auto" src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white" alt="HTML Badge"/>
 </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-  <img height="25" width="auto" src="https://img.shields.io/badge/CSS-blue?logo=CSS&logoColor=white" alt="CSS Badge"/>
+  <img height="25" width="auto" src="https://img.shields.io/badge/CSS3-blue?logo=CSS3&logoColor=white" alt="CSS Badge"/>
 </a>
 <a href="https://www.javascript.com/">
   <img height="25" width="auto" src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
