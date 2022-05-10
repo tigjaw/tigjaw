@@ -59,7 +59,7 @@
   <br>
 
   <a href="https://www.php.net/">
-    <img height="25" width="auto" src="https://img.shields.io/badge/PHP-lavender?logo=PHP&logoColor=white" alt="PHP Badge"/>
+    <img height="25" width="auto" src="https://img.shields.io/badge/PHP-C8A2C8?logo=PHP&logoColor=white" alt="PHP Badge"/>
   </a>
   <a href="https://whatwg.org/">
     <img height="25" width="auto" src="https://img.shields.io/badge/HTML-orange?logo=HTML5&logoColor=white" alt="HTML Badge"/>
