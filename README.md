@@ -1,63 +1,84 @@
 <html>
 <body>
 
-<h1 align = "right">
-  Hi, my name is Joshua 👋
-</h1>
-  
-<ul>
-  <li>
-    I have a first class degree in Computer Science, specialising in Java.
-  </li>
-</ul>
-<ul>
-  <li>
-    I’m looking to restart my Java programming career after years working in other fields.
-  </li>
-</ul>
-<ul>
-  <li>
-    I’m currently learning Python, Spring, Web/Microservice development with REST/SOAP, having recently completed a Spring master-class online course.
-  </li>
-</ul>
-<ul>
-  <li>
-    I'm new to GitHub/Git and getting up to speed!
-  </li>
-</ul>
+<div id="intro">
+
+  <h1 align="right">
+    Hi, my name is Joshua 👋
+  </h1>
+
+  <ul>
+    <li>
+      I have a first class degree in Computer Science, specialising in Java.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      I’m looking to restart my Java programming career after years working in other fields.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      I’m currently learning Python, Spring, Web/Microservice development with REST/SOAP, having recently completed a Spring master-class online course.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      I'm new to GitHub/Git and getting up to speed!
+    </li>
+  </ul>
+
+</div>
 
 <div id="badges">
-  
-<h2>Tech:</h2>
-  
-<a href="https://www.java.com/en/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/Java-red?logo=Java&logoColor=white" alt="Java Badge"/>
-</a>
-<a href="https://spring.io/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/Spring-green?logo=Spring&logoColor=white" alt="Spring Framework Badge"/>
-</a>
-<a href="https://www.python.org/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white" alt="Python Badge"/>
-</a>
-<a href="https://www.eclipse.org/ide/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/Eclipse-purple?logo=Eclipse&logoColor=white" alt="Eclipse Badge"/>
-</a>
-  
-<br>
-  
-<a href="https://www.php.net/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/PHP-lavender?logo=PHP&logoColor=white" alt="PHP Badge"/>
-</a>
-<a href="https://whatwg.org/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white" alt="HTML Badge"/>
-</a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html">
-  <img height="25" width="auto" src="https://img.shields.io/badge/CSS3-blue?logo=CSS3&logoColor=white" alt="CSS Badge"/>
-</a>
-<a href="https://www.javascript.com/">
-  <img height="25" width="auto" src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
-</a>
-  
+
+<div id="tech">
+
+<h2>Tech</h2>
+
+  <a href="https://www.java.com/en/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Java-red?logo=Java&logoColor=white" alt="Java Badge"/>
+  </a>
+  <a href="https://spring.io/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Spring-green?logo=Spring&logoColor=white" alt="Spring Framework Badge"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white" alt="Python Badge"/>
+  </a>
+
+  <br>
+
+  <a href="https://www.php.net/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/PHP-lavender?logo=PHP&logoColor=white" alt="PHP Badge"/>
+  </a>
+  <a href="https://whatwg.org/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white" alt="HTML Badge"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img height="25" width="auto" src="https://img.shields.io/badge/CSS3-blue?logo=CSS3&logoColor=white" alt="CSS Badge"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
+  </a>
+
+</div>
+
+<div id="tools" align="right">
+
+  <h2>Tools</h2>
+
+  <a href="https://www.eclipse.org/ide/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Eclipse-purple?logo=Eclipse&logoColor=white" alt="Eclipse Badge"/>
+  </a>
+  <a href="https://docs.python.org/3/library/idle.html#">
+    <img height="25" width="auto" src="https://img.shields.io/badge/IDLE-blue?logo=Python&logoColor=white" alt="IDLE Badge"/>
+  </a>
+  <a href="https://www.github.com/tigjaw">
+    <img height="25" width="auto" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+</div>
+
 </div>
   
 </body>
