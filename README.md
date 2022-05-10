@@ -85,7 +85,12 @@
 </html>
 
 <!--- - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : woodyatt.joshua@gmail.com --->
+- 📫 How to reach me : woodyatt.joshua@gmail.com
+
+badges:
+https://img.shields.io/badge/BRAND-COLOUR?logo=BRAND&logoColor=white
+
+--->
 
 <!---
 tigjaw/tigjaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
