@@ -111,7 +111,7 @@
 
   <h2>connect with me</h2>
 
-  <a href="https://www.instagram..com/joshua.w.87">
+  <a href="https://www.instagram.com/joshua.w.87">
     <img height="25" width="auto" src="images/instagram/instagram_square.png" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-woodyatt/">
