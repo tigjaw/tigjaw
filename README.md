@@ -80,6 +80,9 @@
   <a href="https://www.eclipse.org/ide/">
     <img height="25" width="auto" src="https://img.shields.io/badge/Eclipse-purple?logo=Eclipse&logoColor=white" alt="Eclipse Badge"/>
   </a>
+  <a href="https://maven.apache.org/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Maven-red?logo=Maven&logoColor=white" alt="Maven Badge"/>
+  </a>
   <a href="https://docs.python.org/3/library/idle.html#">
     <img height="25" width="auto" src="https://img.shields.io/badge/IDLE-blue?logo=Python&logoColor=white" alt="IDLE Badge"/>
   </a>
