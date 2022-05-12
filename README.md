@@ -37,6 +37,9 @@
     I'm new to GitHub and getting up to speed!
   </li>
 
+  <li>
+    I'd love to make new connections, so please feel free to reach out 😊
+  </li>
 </ul>
 
 </div>
