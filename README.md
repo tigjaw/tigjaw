@@ -89,6 +89,15 @@
   <a href="https://www.github.com/tigjaw">
     <img height="25" width="auto" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
+  
+  <br>
+  
+  <a href="https://www.gimp.org/">
+    <img height="25" width="auto" src="https://img.shields.io/badge/GIMP-967bb6?logo=GIMP&logoColor=white" alt="GIMP Badge"/>
+  </a>
+  <a href="https://www.adobe.com/uk/products/photoshop.html">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Photoshop-4169E1?logo=AdobePhotoshop&logoColor=white" alt="Photoshop Badge"/>
+  </a>
 
 </div>
 
