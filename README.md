@@ -3,40 +3,41 @@
 
 <div id="intro">
 
-  <div id="hello" align="right">
-    <h1>
-      Hi, my name is Joshua 👋
-    </h1>
-      <!--
-      <a href="https://www.instagram..com/joshua.w.87">
-        <img height="25" width="auto" src="images/instagram/instagram_square.png" alt="Instagram Badge"/>
-      </a>
-      <a href="https://www.linkedin.com/in/joshua-woodyatt/">
-        <img height="25" width="auto" src="images/linkedin/linkedin_square_white.png" alt="LinkedIn Badge"/>
-      </a>
-      -->
-  </div>
+<div id="hello" align="right">
 
-  <ul>
-    <li>
-      I have a first class degree in Computer Science, specialising in Java.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      I’m looking to restart my Java programming career after years working in other fields.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      I’m currently learning Python, Spring, Web/Microservice development with REST/SOAP, having recently completed a Spring master-class online course.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      I'm new to GitHub and getting up to speed!
-    </li>
-  </ul>
+<h1>
+  Hi, my name is Joshua 👋
+</h1>
+<!--
+<a href="https://www.instagram..com/joshua.w.87">
+  <img height="25" width="auto" src="images/instagram/instagram_square.png" alt="Instagram Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/joshua-woodyatt/">
+  <img height="25" width="auto" src="images/linkedin/linkedin_square_white.png" alt="LinkedIn Badge"/>
+</a>
+-->
+
+</div>
+
+<ul>
+
+  <li>
+    I have a first class degree in Computer Science, specialising in Java.
+  </li>
+
+  <li>
+    I’m looking to restart my Java programming career after years working in other fields.
+  </li>
+
+  <li>
+    I’m currently learning Python, Spring, Web/Microservice development with REST/SOAP, and recently completed a Spring master-class online course.
+  </li>
+
+  <li>
+    I'm new to GitHub and getting up to speed!
+  </li>
+
+</ul>
 
 </div>
 
