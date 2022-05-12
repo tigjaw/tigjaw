@@ -113,14 +113,25 @@
 <div id="socials" align="center">
 
   <h2>connect with me</h2>
-
+<!--
+  <img height="25" width="auto" src="https://img.shields.io/badge/personal-work-white?" alt="Work/Personal"/>
+-->
   <a href="https://www.instagram.com/joshua.w.87">
     <img height="25" width="auto" src="images/instagram/instagram_square.png" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-woodyatt/">
     <img height="25" width="auto" src="images/linkedin/linkedin_square_white.png" alt="LinkedIn Badge"/>
   </a>
-
+<!--
+  <img height="25" width="auto" src="https://img.shields.io/badge/gaming-photography-white?" alt="Virtual Photography"/>
+  
+  <a href="https://www.instagram.com/iridium_flair">
+    <img height="25" width="auto" src="images/instagram/instagram_square.png" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.twitter.com/iridium_flair">
+    <img height="25" width="auto" src="images/twitter/twitter_square.png" alt="Twitter Badge"/>
+  </a>
+-->
 </div>
   
 </body>
