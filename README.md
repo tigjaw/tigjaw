@@ -34,7 +34,7 @@
   </li>
 
   <li>
-    I'm new to GitHub and getting up to speed!
+    I'm new to GitHub and quickly getting up to speed!
   </li>
 
   <li>
