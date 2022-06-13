@@ -102,6 +102,9 @@
   <a href="https://www.adobe.com/uk/products/photoshop.html">
     <img height="25" width="auto" src="https://img.shields.io/badge/Photoshop-4169E1?logo=AdobePhotoshop&logoColor=white" alt="Photoshop Badge"/>
   </a>
+  <a href="https://www.microsoft.com/en-gb/microsoft-365">
+    <img height="25" width="auto" src="https://img.shields.io/badge/Office-FF0000?logo=MicrosoftOffice&logoColor=white" alt="Microsoft Office Badge"/>
+  </a>
 
 </div>
 
