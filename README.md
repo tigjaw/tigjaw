@@ -32,6 +32,10 @@
   <li>
     I’m currently learning Python, Spring, Web/Microservice development with REST/SOAP, and recently completed a Spring master-class online course.
   </li>
+  
+  <li>
+    I’m also experimenting with AI using Java, and OpenAI with Python.
+  </li>
 
   <li>
     I'm new to GitHub and quickly getting up to speed!
