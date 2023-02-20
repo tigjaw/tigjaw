@@ -34,11 +34,7 @@
   </li>
   
   <li>
-    I’m also experimenting with AI using Java, and OpenAI with Python.
-  </li>
-
-  <li>
-    I'm new to GitHub and quickly getting up to speed!
+    I’m also experimenting with AI using Java, and OpenAI via Python.
   </li>
 
   <li>
