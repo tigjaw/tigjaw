@@ -38,7 +38,7 @@
   </li>
 
   <li>
-    I'd love to make new connections, so please feel free to reach out 😊
+    I'd love to make new connections, so please feel free to reach out.
   </li>
 </ul>
 
