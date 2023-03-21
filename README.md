@@ -34,7 +34,7 @@
   </li>
   
   <li>
-    I’m also experimenting with OpenAI via Python and Java.
+    I’m also experimenting with Azure Cognitive Services and OpenAI via Python and Java.
   </li>
 
   <li>
