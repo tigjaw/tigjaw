@@ -34,7 +34,7 @@
   </li>
   
   <li>
-    I’m also experimenting with AI using Java, and OpenAI via Python.
+    I’m also experimenting with OpenAI via Python and Java.
   </li>
 
   <li>
