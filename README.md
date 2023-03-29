@@ -114,7 +114,13 @@
   
 <div id="stats" align="center">
 
-
+  <a href="https://github.com/Tigjaw">
+    <img height="auto" width="450" align="center" src="https://my-github-stats-tigjaw.vercel.app/api?username=Tigjaw&show_icons=true&theme=dark" />
+  </a>
+  <br>
+  <a href="https://github.com/Tigjaw">
+    <img height="auto" width="450" align="center" src="https://my-github-stats-tigjaw.vercel.app/api/top-langs/?username=Tigjaw&layout=compact" />
+  </a>
 
 </div>
 
