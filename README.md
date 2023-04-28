@@ -115,11 +115,11 @@
 <div id="stats" align="center">
 
   <a href="https://github.com/Tigjaw">
-    <img height="auto" width="450" align="center" src="https://my-github-stats-eplkwlf3f-tigjaw.vercel.app/api?username=Tigjaw&show_icons=true&theme=dark" />
+    <img height="auto" width="450" align="center" src="https://my-github-stats-alpha.vercel.app/api?username=Tigjaw&show_icons=true&theme=dark" />
   </a>
   <br>
   <a href="https://github.com/Tigjaw">
-    <img height="auto" width="450" align="center" src="https://my-github-stats-eplkwlf3f-tigjaw.vercel.app/api/top-langs/?username=Tigjaw&layout=compact" />
+    <img height="auto" width="450" align="center" src="https://my-github-stats-alpha.vercel.app/api/top-langs/?username=Tigjaw&layout=compact" />
   </a>
 
 </div>
