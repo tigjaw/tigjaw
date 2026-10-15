@@ -34,7 +34,7 @@
   </li>
   
   <li>
-    I’m also experimenting with OpenAI via Python and Java.
+    I’m also experimenting with AI via Python and Java, including Vibe & Agentic Coding.
   </li>
 
   <li>
