@@ -28,10 +28,6 @@
   <li>
     I’m looking to restart my Java programming career after years working in other fields.
   </li>
-
-  <li>
-    I’m currently learning Python, Spring, Web/Microservice development with REST/SOAP, and recently completed a Spring master-class online course.
-  </li>
   
   <li>
     I’m also experimenting with AI via Python and Java, including Vibe & Agentic Coding.
